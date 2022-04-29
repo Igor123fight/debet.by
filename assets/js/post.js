@@ -3,7 +3,7 @@ params={
     "fields": [{"OPPORTUNITY": "10000", "TITLE": "TEST"}]
     }
   )
-  comsole.log(Document.GetelementbyName(EMAIL)) 
+  console.log(Document.GetelementbyName(EMAIL)) 
   .then(function (response) {
   console.log(response);
   })
