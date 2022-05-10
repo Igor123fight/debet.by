@@ -81,7 +81,7 @@ select { background: url(../images/select-arrow.png) no-repeat right #f7f8f8; -w
 select:focus, textarea:focus, input[type="text"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="password"]:focus, input[type="number"]:focus, input[type="tel"]:focus, input[type="search"]:focus, .dtr-subscribe-form input[type="email"]:focus, .dtr-search-form input[type="search"]:focus { background-color: #fff; border-color: #7a14ff; outline: none; }
 /* placeholder */
 ::-webkit-input-placeholder {
-color: rgba(5,24,43,0.3);
+color: rgba(97, 10, 138, 0.3);
 }
 :-moz-placeholder {
 color: rgba(5,24,43,0.3);
@@ -95,7 +95,7 @@ color: rgba(5,24,43,0.3);
 /* Browser fix : Change Autocomplete styles in Chrome*/
 input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, textarea:-webkit-autofill, textarea:-webkit-autofill:hover, textarea:-webkit-autofill:focus, select:-webkit-autofill, select:-webkit-autofill:hover, select:-webkit-autofill:focus {
  border-color: #7a14ff;
- -webkit-text-fill-color: rgba(255,255,255,0.8);
+ -webkit-text-fill-color: rgba(0, 0, 0, 0.8);
  transition: background-color 5000s ease-in-out 0s;
 }
 /*== subscribe form ==*/
