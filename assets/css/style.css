@@ -829,3 +829,32 @@ form label.error { font-size: 10px; }
 .dtr-btn, button, input[type="submit"], input[type="reset"], .dtr-form-btn, .dtr-logo, a:link, select, textarea, input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="number"], input[type="tel"], input[type="search"], #dtr-header-global, .dtr-social a, .dtr-team-social a i { -webkit-transition: all .3s ease; transition: all .3s ease; }
 
 .style-flex-test:hover {color: darkmagenta;}
+.style-flex-test:hover {color: #6f42c1;}
+.igor-flexable:hover{color: #6f42c1;}
+.igor-flexable {font-size: 1em;}
+.igor-arrow {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 70px;
+    left: 70%;
+    margin-top: -10%;
+}
+.igor-price{
+width: 100%;
+margin-top: 15%;
+}
+.igor-textforpic{
+    position: absolute;
+    left: 30%;
+}
+.igor-textandpic{
+    margin-bottom: 300px;
+    margin-top: 50px;
+}
+.igor-picbitrix24{
+    left: 950px;
+    position: relative;
+    bottom: 300px;
+    width: 30%;
+}
